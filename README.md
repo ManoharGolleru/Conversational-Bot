@@ -194,15 +194,25 @@ We’ve applied all three sequence catalogs to GPT-4o to generate model response
 
 
 ----
-### Few references
-[A Simple Systematic for the Organisation of Turn Taking in Conversation(Sacks, Schegloff & Jefferson (1974))](https://www.researchgate.net/publication/215439057_A_Simple_Systematic_for_the_Organisation_of_Turn_Taking_in_Conversation)
-[J. McH. Sinclair and R. M. Coulthard. Towards an analysis of discourse. London: Oxford University Press, 1975.](https://www.cambridge.org/core/journals/language-in-society/article/abs/j-mch-sinclair-and-r-m-coulthard-towards-an-analysis-of-discourse-london-oxford-university-press-1975/C01B3C5676DFF10B701202A0361513B8)
-[Agreeing and disagreeing with assessments: some features of preferred/dispreferred turn shapes, Pomerantz (1984)](https://www.cambridge.org/core/books/abs/structures-of-social-action/agreeing-and-disagreeing-with-assessments-some-features-of-preferreddispreferred-turn-shapes/650C48185B3180764990246B9D3D7822)
-[Schegloff, E. A. (2007). Sequence Organization in Interaction: A Primer in Conversation Analysis. Cambridge University Press.](https://www.researchgate.net/publication/280745816_Sequence_Organization_in_Interaction_A_Primer_in_Conversation_Analysis)
+### References
 
-Mehan, H. (1979). Learning Lessons: Social Organization in the Classroom. Harvard University Press.
+- **Sacks, H., Schegloff, E. A., & Jefferson, G. (1974).** A simplest systematics for the organization of turn-taking for conversation. *Language, 50*(4), 696–735.  
+  [https://www.researchgate.net/publication/215439057_A_Simple_Systematic_for_the_Organisation_of_Turn_Taking_in_Conversation](https://www.researchgate.net/publication/215439057_A_Simple_Systematic_for_the_Organisation_of_Turn_Taking_in_Conversation)
 
-Heritage, J. (2004). Conversation Analysis and Institutional Talk: Analytic Themes and Ways of Seeing. In J. P. Gee & M. Handford (Eds.), The Routledge Handbook of Discourse Analysis (pp. 208–228).
+- **Sinclair, J. M., & Coulthard, R. M. (1975).** *Towards an analysis of discourse: The English used by teachers and pupils.* Oxford University Press.  
+  [https://www.cambridge.org/core/journals/language-in-society/article/abs/j-mch-sinclair-and-r-m-coulthard-towards-an-analysis-of-discourse-london-oxford-university-press-1975/C01B3C5676DFF10B701202A0361513B8](https://www.cambridge.org/core/journals/language-in-society/article/abs/j-mch-sinclair-and-r-m-coulthard-towards-an-analysis-of-discourse-london-oxford-university-press-1975/C01B3C5676DFF10B701202A0361513B8)
 
-Drew, P., & Heritage, J. (1992). Talk at Work: Interaction in Institutional Settings. Cambridge University Press.
+- **Pomerantz, A. (1984).** Agreeing and disagreeing with assessments: Some features of preferred/dispreferred turn shapes. In J. M. Atkinson & J. Heritage (Eds.), *Structures of Social Action* (pp. 57–101). Cambridge University Press.  
+  [https://www.cambridge.org/core/books/abs/structures-of-social-action/agreeing-and-disagreeing-with-assessments-some-features-of-preferreddispreferred-turn-shapes/650C48185B3180764990246B9D3D7822](https://www.cambridge.org/core/books/abs/structures-of-social-action/agreeing-and-disagreeing-with-assessments-some-features-of-preferreddispreferred-turn-shapes/650C48185B3180764990246B9D3D7822)
 
+- **Schegloff, E. A. (2007).** *Sequence Organization in Interaction: A Primer in Conversation Analysis.* Cambridge University Press.  
+  [https://www.researchgate.net/publication/280745816_Sequence_Organization_in_Interaction_A_Primer_in_Conversation_Analysis](https://www.researchgate.net/publication/280745816_Sequence_Organization_in_Interaction_A_Primer_in_Conversation_Analysis)
+
+- **Mehan, H. (1979).** *Learning Lessons: Social Organization in the Classroom.* Harvard University Press.  
+  [https://www.jstor.org/stable/2778797?seq=4](https://www.jstor.org/stable/2778797?seq=4)
+
+- **Heritage, J. (2004).** Conversation analysis and institutional talk: Analytic themes and ways of seeing. In J. P. Gee & M. Handford (Eds.), *The Routledge Handbook of Discourse Analysis* (pp. 208–228). Routledge.  
+  [https://www.researchgate.net/publication/312652565_Conversation_analysis_and_institutional_talk](https://www.researchgate.net/publication/312652565_Conversation_analysis_and_institutional_talk)
+
+- **Drew, P., & Heritage, J. (1992).** *Talk at Work: Interaction in Institutional Settings.* Cambridge University Press.  
+  (Available from Cambridge University Press)
